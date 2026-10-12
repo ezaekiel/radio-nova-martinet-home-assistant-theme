@@ -1,16 +1,17 @@
 # Radio Nova Martinet
 
 Thème Home Assistant dérivé de Martinet Light et inspiré des couleurs de Radio Nova.
-La version 1.0.4 garde le vert Nova pour les accents, avec des surfaces claires froides,
-un bleu nuit pour le texte et la police Archivo Black pour les titres.
+La version 1.0.5 associe le vert Nova au corail, au jaune soleil et au bleu électrique,
+avec un fond illustré de coups de pinceau et la police Archivo Black pour les titres.
 
 ## Installation
 
 1. Copier `radio_nova_martinet.yaml` dans `/config/themes/`.
-2. Copier `ArchivoBlack-Regular.ttf` dans `/config/www/fonts/`.
-3. Copier `radio-nova-font.css` dans `/config/www/`.
-4. Dans **Paramètres → Tableaux de bord → Ressources**, ajouter `/local/radio-nova-font.css` en type **Stylesheet / CSS**.
-5. Sélectionner **Radio Nova Martinet** dans le profil Home Assistant.
+2. Copier `radio-nova-brush-background.png` dans `/config/www/`.
+3. Copier `ArchivoBlack-Regular.ttf` dans `/config/www/fonts/`.
+4. Copier `radio-nova-font.css` dans `/config/www/`.
+5. Dans **Paramètres → Tableaux de bord → Ressources**, ajouter `/local/radio-nova-font.css` en type **Stylesheet / CSS**.
+6. Sélectionner **Radio Nova Martinet** dans le profil Home Assistant.
 
 Le nom de famille de police déclaré dans le thème est `Archivo Black`. Le fichier
 `ArchivoBlack-OFL.txt` contient sa licence SIL Open Font License.
