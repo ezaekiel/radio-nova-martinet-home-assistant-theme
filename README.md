@@ -1,8 +1,9 @@
 # Radio Nova Martinet
 
 Thème Home Assistant dérivé de Martinet Light et inspiré des couleurs de Radio Nova.
-La version 1.0.5 associe le vert Nova au corail, au jaune soleil et au bleu électrique,
+La version 1.0.6 associe le vert Nova au corail, au jaune soleil et au bleu électrique,
 avec un fond illustré de coups de pinceau et la police Archivo Black pour les titres.
+Les cartes utilisent des surfaces presque opaques pour garder un contraste lisible sur ce fond vif.
 
 ## Installation
 
