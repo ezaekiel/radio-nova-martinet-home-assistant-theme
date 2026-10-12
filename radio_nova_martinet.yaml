@@ -1,17 +1,14 @@
-# Version: 1.0.2
+# Version: 1.0.3
 Radio Nova Martinet:
   # Palette adaptee de l'image Radio Nova : vert fluorescent, vert profond et bleu nuit.
   radio-nova-green: '#00ed78'
   radio-nova-forest: '#009b58'
   radio-nova-night: '#111527'
   radio-nova-white: '#fffdfc'
-  primary-font-family: "Roboto, 'Arial Narrow', sans-serif"
-  paper-font-common-heading_-_font-family: "Roboto, 'Arial Narrow', sans-serif"
-  paper-font-headline_-_font-family: "Roboto, 'Arial Narrow', sans-serif"
-  paper-font-title_-_font-family: "Roboto, 'Arial Narrow', sans-serif"
-  paper-font-subhead_-_font-family: "Roboto, 'Arial Narrow', sans-serif"
-  ha-card-header-font-family: "Roboto, 'Arial Narrow', sans-serif"
-  ha-card-header-font-weight: '900'
+  ha-font-family-heading: "'Archivo Black', 'Arial Black', sans-serif"
+  ha-font-weight-heading: '400'
+  ha-card-header-font-family: "'Archivo Black', 'Arial Black', sans-serif"
+  ha-card-header-font-weight: '400'
   ha-card-header-letter-spacing: '-0.04em'
   martinet-dashboard-background: 'linear-gradient(180deg, #effff7 0%, #ffffff 48%, #edf8f2 100%)'
   martinet-surface-mid-color: '#edf8f2'

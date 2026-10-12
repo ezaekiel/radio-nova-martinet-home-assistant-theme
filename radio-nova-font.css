@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Archivo Black';
+  src: url('/local/fonts/ArchivoBlack-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
